@@ -6,3 +6,14 @@
 body {
   background-color: aqua;
 }
+.div {
+  margin-top: 100px;
+}
+p,
+h1 {
+  font-size: 40px;
+  text-align: center;
+}
+p {
+  margin-top: 150px;
+}
