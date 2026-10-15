@@ -29,6 +29,10 @@ p {
   background-color: #2e873e;
   font-family: Sansita;
 }
+.N1:hover {
+  background-color: red;
+  color: black;
+}
 .N2 {
   height: 100px;
   width: 220px;
