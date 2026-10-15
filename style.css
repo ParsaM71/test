@@ -42,3 +42,7 @@ p {
   background-color: black;
   font-family: Edu QLD Hand;
 }
+.N2:hover {
+  background-color: rgb(231, 223, 223);
+  color: black;
+}
