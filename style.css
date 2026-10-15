@@ -16,13 +16,19 @@ h1 {
   text-align: center;
 }
 p {
-  margin-top: 200px;
   display: inline-block;
   border-radius: 10px;
   padding: 2px 0;
   height: 70px;
   width: 200px;
-  background-color: #2e873e;
   color: white;
   font-family: Sansita;
+}
+.N1 {
+  margin-top: 200px;
+  background-color: #2e873e;
+}
+.N2 {
+  margin-top: 150px;
+  background-color: black;
 }
