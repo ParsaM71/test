@@ -11,38 +11,42 @@ click [here](https://parsam71.github.io/test/) to see demo page
 ## p.N1 code
 
 ### html
+
 `<p class="N1">Nothing</p>`
-***
+
+---
+
 ### css
+
 `p {`
 
-  `display: inline-block;`
+`display: inline-block;`
 
- ` color: white;`
+` color: white;`
 `}`
 
 `.N1 {`
 
-  `height: 70px;`
+`height: 70px;`
 
-  `width: 200px;`
+`width: 200px;`
 
-  `margin-top: 200px;`
+`margin-top: 200px;`
 
-  `padding: 2px 0;`
+`padding: 2px 0;`
 
-  `border-radius: 10px;`
+`border-radius: 10px;`
 
-  `background-color: #2e873e;`
+`background-color: #2e873e;`
 
-  `font-family: Sansita;`
+`font-family: Sansita;`
 
 `}`
 
 `.N1:hover {`
 
-  `background-color: red;`
+`background-color: red;`
 
-  `color: black;`
+`color: black;`
 
 `}`
